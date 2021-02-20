@@ -5,13 +5,15 @@ Este repositório tem a finalidade de armazenar um laboratório de estudos sobre
 - Linux
 - Ansible
 - Hadoop
+  - Zookeeper
+  - Oozie ( WorkFlow )
+    Usado para gerenciar jobs 
   - Sqoop
   - Hive
-  - Zookeeper
   - Yarn
   - HDFS
   - HBase
-  - oozie
+
   - Flume
   
 - Spark
